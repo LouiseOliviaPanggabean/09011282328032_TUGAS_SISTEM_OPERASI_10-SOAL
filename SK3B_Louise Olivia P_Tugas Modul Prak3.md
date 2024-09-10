@@ -14,7 +14,12 @@ KELAS : SK3B
 -  Mengenal konsep Owner dan Group
 -  Mengerti konsep Link dan symbolic link
 
-### 1.3 DASAR TEORI
+### 1.3 ALAT DAN BAHAN
+- Laptop
+- Sistem operasi Linux
+- Command Line/Terminal
+
+### 1.4 DASAR TEORI
 <p>Sistem file adalah struktur data yang digunakan oleh sistem operasi untuk mengatur dan mengelola data dalam suatu penyimpanan sekunder, seperti hard disk atau SSD. Sistem file bertanggung jawab untuk menyimpan, mengakses, dan memodifikasi data secara efisien dan aman. Salah satu komponen sistem file pada sistem operasi Linux adalah direktory. Untuk mengatur sistem file kita dapat menggunakan terminal. Hal yang dilakukan dalam sistem file yaitu membuat dan mengubah nama file/direktori, melakukan akses kontrol, mengubah jenis file, dan masih banyak lagi. Dengan demikian peran dari sistem file adalah untuk menyimpan dan mengelola data, mengelola akses ke data, menjamin integritas data dengan menggunakan fitur - fitur yang ada.  </p>
 
 ## BAB II PEMBAHASAN PRAKTIKUM FITUR SISTEM FILE PADA LINUX
